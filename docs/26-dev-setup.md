@@ -1,6 +1,6 @@
-# 26 Dev Setup
+# Development Setup
 
-## 4.1 Development Environment Setup
+## Development Environment Setup
 
 ### Prerequisites
 

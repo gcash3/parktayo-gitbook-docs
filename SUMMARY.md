@@ -45,17 +45,3 @@
 * [Monitoring & Maintenance](docs/28-monitoring.md)
 * [Testing Guide](docs/29-testing.md)
 * [Troubleshooting](docs/30-troubleshooting.md)
-
-## LEGAL & COMPLIANCE
-
-* [Privacy Policy](docs/23-privacy-policy.md)
-* [Terms of Service](docs/24-terms-of-service.md)
-* [Legal Integration](docs/25-legal-integration.md)
-
-## ADDITIONAL RESOURCES
-
-* [Performance Optimization](docs/31-optimization.md)
-* [Future Roadmap](docs/32-roadmap.md)
-* [Glossary](docs/appendix-glossary.md)
-* [Change Log](docs/appendix-changelog.md)
-* [Contributing Guide](docs/appendix-contributing.md)
