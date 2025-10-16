@@ -1,0 +1,69 @@
+{
+  "title": "ParkTayo - Complete System Documentation",
+  "description": "Comprehensive documentation for ParkTayo AI-Powered Smart Parking Management Platform",
+  "author": "ParkTayo Development Team",
+  "language": "en",
+  "gitbook": ">=3.0.0",
+  "root": "./docs",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "github",
+    "edit-link",
+    "prism",
+    "-lunr",
+    "search-plus",
+    "expandable-chapters",
+    "back-to-top-button",
+    "copy-code-button",
+    "code",
+    "splitter",
+    "sharing-plus",
+    "fontsettings",
+    "theme-comscore"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/parktayo/parktayo-system"
+    },
+    "edit-link": {
+      "base": "https://github.com/parktayo/parktayo-docs/edit/main",
+      "label": "Edit This Page"
+    },
+    "prism": {
+      "css": [
+        "prismjs/themes/prism-okaidia.css"
+      ]
+    },
+    "sharing": {
+      "facebook": false,
+      "twitter": false,
+      "all": [
+        "facebook",
+        "google",
+        "twitter",
+        "instapaper",
+        "linkedin"
+      ]
+    },
+    "theme-default": {
+      "showLevel": true,
+      "styles": {
+        "website": "styles/website.css",
+        "ebook": "styles/ebook.css",
+        "pdf": "styles/pdf.css",
+        "mobi": "styles/mobi.css",
+        "epub": "styles/epub.css"
+      }
+    }
+  },
+  "variables": {
+    "version": "2.0",
+    "apiVersion": "v1",
+    "apiUrl": "https://api.parktayo.com/api/v1",
+    "supportEmail": "support@parktayo.com",
+    "lastUpdated": "January 2025"
+  }
+}
